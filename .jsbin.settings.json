@@ -1,7 +1,8 @@
 {
-    // you can also use comments
-    // "app.theme": "dark"
-    "editor.lineWrapping": true,
-    "app.splitColumns": true,
-    "app.theme": "dark"
+  // you can also use comments
+  // "app.theme": "dark"
+  "editor.lineWrapping": true,
+  "app.splitColumns": true,
+  "javascript.autoRun": false,
+  "app.theme": "light"
 }
